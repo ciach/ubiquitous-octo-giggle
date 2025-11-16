@@ -1,0 +1,17 @@
+# Byte-compiled / generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE / editor folders
+.idea/
+.vscode/
+
+# Project artifacts
+dataset/*
+!dataset/.gitkeep
+embeddings.pt
